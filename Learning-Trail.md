@@ -16,3 +16,5 @@ Les étapes de la découverte des boards Arduino.
 * Montage du circuit du détecteur à nouveau, en utilisant LED sur PIN 13
 * Essais et lecture distance sur moniteur du port série (inclu dans IDE Arduino, tout simplement!)
 * Mise à jour documentation de l'installation Museomix
+
+<img src="https://github.com/MuseomixLeman/Equipe-6/blob/master/images/IMG_1341.JPG" height="200" title="Assemblage du détecteur de présence avec circuit Arduino Due"/>
