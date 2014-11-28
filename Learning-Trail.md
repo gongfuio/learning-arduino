@@ -1,6 +1,6 @@
-# Learning trail
+# Learning Trail
 
-Les étapes de la découverte des boards Arduino.
+Etapes de la découverte du monde de l'Arduino.
 
 ## Session 1 · 20.11.2014 · Brancher, compiler, écouter
 
@@ -11,7 +11,7 @@ Les étapes de la découverte des boards Arduino.
 
 ## Session 2 · 27.11.2014 · Again
 
-* Lecture article [Getting started with the Arduino Due](http://arduino.cc/en/pmwiki.php?n=Guide/ArduinoDue)
+* Lecture articles [Getting started with the Arduino Due](http://arduino.cc/en/pmwiki.php?n=Guide/ArduinoDue) et [Arduino › Reference › Serial](http://arduino.cc/en/Reference/Serial)
 * Etude tutoriels de base: [Blink LED](http://arduino.cc/en/Tutorial/Blink), [BlinkWithoutDelay](http://arduino.cc/en/Tutorial/BlinkWithoutDelay), [DigitalReadSerial](http://arduino.cc/en/Tutorial/DigitalReadSerial)
 * Montage du circuit du détecteur à nouveau, en utilisant LED sur PIN 13
 * Essais et lecture distance sur moniteur du port série (inclu dans IDE Arduino, tout simplement!)
