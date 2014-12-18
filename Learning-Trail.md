@@ -22,5 +22,7 @@ Etapes de la découverte du monde de l'Arduino.
 
 ## Session 3 · 18.12.2014 · Touch Sensors
 
-* Montage d'un circuit avec 4 [Groove Touch Sensors](http://www.seeedstudio.com/wiki/Grove_-_Touch_Sensor)
-* Réalisation script pour allumer LED (pin 13) si l'un des boutons a été effleuré
+* Montage d'un circuit avec 4 [Groove Touch Sensors](http://www.seeedstudio.com/wiki/Grove_-_Touch_Sensor) et board Arduino Due
+* Réalisation [script Arduino](blob/master/sketches/touchSensors/touchSensors.ino) pour allumer LED (pin 13) si l'un des boutons a été effleuré
+
+<img src="images/IMG_6444.jpg" height="200" width="200" title="Assemblage circuit Arduino Due et Groove Touch Sensors"/>
