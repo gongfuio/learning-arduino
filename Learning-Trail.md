@@ -19,3 +19,8 @@ Etapes de la découverte du monde de l'Arduino.
 * Mise à jour documentation de l'installation Museomix
 
 <img src="https://github.com/MuseomixLeman/Equipe-6/blob/master/images/IMG_6322.JPG" height="200" width="200" title="Assemblage du détecteur de présence avec circuit Arduino Due"/>
+
+## Session 3 · 18.12.2014 · Touch Sensors
+
+* Montage d'un circuit avec 4 [Groove Touch Sensors](http://www.seeedstudio.com/wiki/Grove_-_Touch_Sensor)
+* Réalisation script pour allumer LED (pin 13) si l'un des boutons a été effleuré
